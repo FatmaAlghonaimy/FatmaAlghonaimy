@@ -23,19 +23,6 @@
 
 ---
 
-## 🏅 Competitive Programming Profiles
-
-<p align="center">
-  <a href="https://codeforces.com/profile/Fatma_alghonaimy" target="_blank">
-    <img src="https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white" alt="Codeforces" />
-  </a>
-  <a href="https://www.hackerrank.com/ffatmaalaa32" target="_blank">
-    <img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white" alt="HackerRank" />
-  </a>
-</p>
-
----
-
 ## 🛠 My Tech Stack
 
 ### **Programming Languages**
@@ -66,7 +53,18 @@
 </p>
 
 ---
+## 🏅 Competitive Programming Profiles
 
+<p align="center">
+  <a href="https://codeforces.com/profile/Fatma_alghonaimy" target="_blank">
+    <img src="https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white" alt="Codeforces" />
+  </a>
+  <a href="https://www.hackerrank.com/ffatmaalaa32" target="_blank">
+    <img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white" alt="HackerRank" />
+  </a>
+</p>
+
+---
 ## 📊 GitHub Analytics
 
 <p align="center">
