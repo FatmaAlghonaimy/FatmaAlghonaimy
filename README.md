@@ -23,6 +23,19 @@
 
 ---
 
+## 🏅 Competitive Programming Profiles
+
+<p align="center">
+  <a href="https://codeforces.com/profile/Fatma_alghonaimy" target="_blank">
+    <img src="https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white" alt="Codeforces" />
+  </a>
+  <a href="https://www.hackerrank.com/ffatmaalaa32" target="_blank">
+    <img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white" alt="HackerRank" />
+  </a>
+</p>
+
+---
+
 ## 🛠 My Tech Stack
 
 ### **Programming Languages**
@@ -57,15 +70,26 @@
 ## 📊 GitHub Analytics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=fatmaAlghonaimy&show_icons=true&theme=radical&hide_border=true" height="165"/>
-  <img src="https://streak-stats.demolab.com?user=fatmaAlghonaimy&theme=radical&hide_border=true" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=fatmaAlghonaimy&show_icons=true&theme=tokyonight&hide_border=true" height="165"/>
+  <img src="https://streak-stats.demolab.com?user=fatmaAlghonaimy&theme=tokyonight&hide_border=true" height="165"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fatmaAlghonaimy&layout=compact&theme=radical&hide_border=true" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fatmaAlghonaimy&layout=compact&theme=tokyonight&hide_border=true" height="165"/>
 </p>
 
 ---
+## 🏆 GitHub Profile Summary
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=fatmaAlghonaimy&theme=tokyonight" alt="Profile Details" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=fatmaAlghonaimy&theme=tokyonight" alt="Stats Card" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=fatmaAlghonaimy&theme=tokyonight&utcOffset=2" alt="Commits per Time (UTC+2)" />
+</p>
+
 
 ## 📈 Contribution Graph
 <p align="center">
