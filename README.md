@@ -17,7 +17,6 @@
 ## 📫 Connect with Me
 <p align="center">
   <a href="mailto:ffatmaalaa32@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" width="48" height="48" /></a>
-  <a href="https://github.com/FatmaAlghonaimy"><img src="https://skillicons.dev/icons?i=github" width="48" height="48" /></a>
   <a href="https://linkedin.com/in/fatma-alghonaimy"><img src="https://skillicons.dev/icons?i=linkedin" width="48" height="48" /></a>
 </p>
 
@@ -88,7 +87,7 @@
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=fatmaAlghonaimy&theme=tokyonight&utcOffset=2" alt="Commits per Time (UTC+2)" />
 </p>
 
-
+---
 ## 📈 Contribution Graph
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=fatmaAlghonaimy&theme=react-dark&hide_border=true&area=true" />
